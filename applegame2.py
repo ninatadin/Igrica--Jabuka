@@ -8,7 +8,8 @@ prozor = pg.display.set_mode((sirina, visina))
 
 pg.key.set_repeat(10, 10)
 
-
+korpa = pg.image.load("korpa.png")
+jabuka = pg.image.load("jabuka.png")
 zivot = jabuka
 
 maks_jabuke = 3
